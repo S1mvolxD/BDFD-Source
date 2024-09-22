@@ -1,4 +1,4 @@
-# Commands.
+# Commands:
 - Triger: Purge
 - Usage: <you prefix>purge <amount>
 - Code:
@@ -17,3 +17,4 @@ $deleteIn[3s]
 $deletecommand
 $clear[$message[1]]
 ```
+# Slash:
