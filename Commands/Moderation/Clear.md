@@ -1,6 +1,7 @@
 # Commands.
 - Triger: Purge
 - Usage: <you prefix>purge <amount>
+- Code:
 ```fix
 $nomention
 $onlyPerms[managemessages;<@$authorID> You are missing the `manage messages` permission]
