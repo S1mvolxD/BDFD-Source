@@ -1,3 +1,6 @@
+
+## Triger: Purge
+## Usage: <you prefix>purge <amount>
 ```fix
 $nomention
 $onlyPerms[managemessages;<@$authorID> You are missing the `manage messages` permission]
