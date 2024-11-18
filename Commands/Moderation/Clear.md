@@ -8,18 +8,21 @@ $if[$checkUserPerms[$authorID;managemessages]==false]
   $title[Missing permissions.]
   $description[<@$authorID> You are missing the `manage messages` permission]
   $color[#ff0000]
+  $deleteIn[3s]
   $stop
 $endif
 $if[$checkUserPerms[$botID;managemessages]==false]
   $title[Missing permissions.]
   $description[<@$authorID>, I am missing the `manage messages` permission]
   $color[#ff0000]
+  $deleteIn[3s]
   $stop
 $endif
 $if[$isNumber[$message]==true]
   $title[Argument error.]
   $description[<@$authorID>, You provided an invalid number]
   $color[#ff0000]
+  $deleteIn[3s]
   $stop
 $endif
 
