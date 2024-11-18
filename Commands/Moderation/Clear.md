@@ -51,9 +51,9 @@ $if[$checkUserPerms[$botID;managemessages]==false]
 $endif
 
 $title[Cleard Messages]
-$description[Messages have been deleted: `$message[quantity]`]
+$description[Messages have been deleted: `$message[number]`]
 $color[#303136]
 $deleteIn[3s]
-$clear[$message[quantity]]
+$clear[$message[number]]
 $endif
 ```
