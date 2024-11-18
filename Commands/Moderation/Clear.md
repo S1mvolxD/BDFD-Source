@@ -21,7 +21,7 @@ $clear[$message[1]]
 - Options: `Name: number | Description: any | Option type: Number | Minimum 1 maximum 1000 | Required option: enabled`
 ```swift
 $nomention
-$onlyIf[$isSlash==true;]
+$if[$isSlash==true]
 $if[$checkUserPerms[$authorID;managemessages]==false]
   $ephemeral
   $title[Missing permissions.]
@@ -42,4 +42,5 @@ $description[Messages have been deleted: `$message[quantity]`]
 $color[#303136]
 $deleteIn[3s]
 $clear[$message[quantity]]
+$endif
 ```
