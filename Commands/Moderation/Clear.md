@@ -1,5 +1,5 @@
 # Commands:
-- Triger: Purge
+- Triger: (you prefix)Purge
 - Usage: (you prefix)purge (amount)
 - Code:
 ```fix
