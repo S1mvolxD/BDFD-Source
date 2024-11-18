@@ -1,6 +1,6 @@
 # Commands:
 - Triger: Purge
-- Usage: (you prefix)purge <amount>
+- Usage: (you prefix)purge (amount)
 - Code:
 ```fix
 $nomention
