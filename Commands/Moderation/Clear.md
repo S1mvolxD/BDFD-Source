@@ -16,7 +16,7 @@ $if[$checkUserPerms[$botID;managemessages]==false]
   $color[#ff0000]
   $stop
 $endif
-$if[$isNumber[$message]==yes]
+$if[$isNumber[$message]==true]
   $title[Argument error.]
   $description[<@$authorID>, You provided an invalid number]
   $color[#ff0000]
