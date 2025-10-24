@@ -49,3 +49,5 @@ Improve your bot's functionality without programming
 🆕 Updates: Weekly
 ```
 ## 🎮 Quick start in 4 steps
+### **1. 📥 Get the commands**
+`Simply copy the code of the desired command directly from the repository`
