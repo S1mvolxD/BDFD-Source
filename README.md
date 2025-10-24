@@ -35,3 +35,7 @@ Improve your bot's functionality without programming
 |----------------|--------------------|-------------------------|
 | Простые инструкции |	Расширенные функции	| Протестированный код  |
 </div>
+| First Header  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
