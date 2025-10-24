@@ -6,3 +6,6 @@ Professional commands for the Discord bot visual builder
 Improve your bot's functionality without programming
 
 </div>
+
+
+### 🤔 What is Bot Designer for Discord?
