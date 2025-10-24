@@ -81,6 +81,3 @@ Choose a team from the list above and follow the installation instructions!
 
 Have fun creating bots! 🎉
 </div>
-
-Last update: ${new Date().toLocaleDateString('ru-RU')}
-Bot Designer for Discord - a visual bot builder for Discord
