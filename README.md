@@ -48,3 +48,4 @@ Improve your bot's functionality without programming
 🎯 Moderation: 1+ Commands
 🆕 Updates: Weekly
 ```
+## 🎮 Quick start in 4 steps
