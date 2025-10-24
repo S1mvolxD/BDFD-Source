@@ -17,3 +17,5 @@ Improve your bot's functionality without programming
 - 🔄 Working with databases
 - 🎨 Work with databases and create beautiful embeds
 - 🤖 Integrate various APIs
+
+## 🌟 About the project
