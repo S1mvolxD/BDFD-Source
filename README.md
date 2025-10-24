@@ -10,7 +10,7 @@ Improve your bot's functionality without programming
 
 ### 🤔 What is Bot Designer for Discord?
 
-Bot Designer for Discord - is a powerful visual bot builder for Discord that allows you to create complex bots without any programming knowledge. With its intuitive interface, you can:
+**Bot Designer for Discord** - is a powerful visual bot builder for Discord that allows you to create complex bots without any programming knowledge. With its intuitive interface, you can:
 
 - 🎯 Create teams of any complexity
 - ⚡ Configure automatic actions
