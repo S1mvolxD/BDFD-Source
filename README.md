@@ -51,3 +51,22 @@ Improve your bot's functionality without programming
 ## 🎮 Quick start in 4 steps
 ### **1. 📥 Get the commands**
 `Simply copy the code of the desired command directly from the repository`
+
+### **2. 🔧 Set up Bot Designer for Discord**
+1. Open Bot Designer for Discord
+2. Create a new bot or open an existing one
+3. Go to the "Commands" section
+
+### **3. 📝 Add a command**
+```swift
+// Paste the copied command code
+$nomention
+$title[My team]
+$description[It's working!]
+$color[#5865F2]
+```
+
+### **4. 🚀 Launch the bot**
+- Save the command
+- Run the bot
+- Test the command on the server
