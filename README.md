@@ -70,3 +70,14 @@ $color[#5865F2]
 - Save the command
 - Run the bot
 - Test the command on the server
+
+
+<div align="center">
+🚀 Ready to start?
+Choose a team from the list above and follow the installation instructions!
+
+⭐ Don't forget to give us a star!
+ It helps the project grow and improve!
+
+Have fun creating bots! 🎉
+</div>
