@@ -29,8 +29,6 @@ Improve your bot's functionality without programming
 - 🎮 Game Developers - Who Creates Game Bots
 
 ## 🚀 Why our project?
-<div align="center">
 | 💡 Для новичков	|
 | ------------- |
 | Простые инструкции |
-</div>
