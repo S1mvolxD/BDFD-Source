@@ -20,3 +20,11 @@ Improve your bot's functionality without programming
 
 ## 🌟 About the project
 **Bot Designer for Discord Commands Collection** - This is a carefully assembled ready-made command builder for the Bot Designer for Discord platform. Our project is designed to make your bots more functional and professional.
+
+## 🎯 Who is this project for?
+
+- 👶 Beginners - Those who are just starting to work with bots
+- 🚀 Advanced users - Who wants to expand the capabilities of their bots
+- 👑 Server administrators - Who is looking for ready-made solutions for moderation or other things
+- 🎮 Game Developers - Who Creates Game Bots
+
