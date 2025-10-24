@@ -45,6 +45,6 @@ Improve your bot's functionality without programming
 
 ## 📊 What's inside?
 ```
-🎯 Moderation:   1+ Commands
-🆕 Updates:  Weekly
+🎯 Moderation: 1+ Commands
+🆕 Updates: Weekly
 ```
