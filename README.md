@@ -19,3 +19,4 @@ Improve your bot's functionality without programming
 - 🤖 Integrate various APIs
 
 ## 🌟 About the project
+**Bot Designer for Discord Commands Collection** - This is a carefully curated library of ready-made commands for the Bot Designer for Discord platform. Our project is designed to make your bots more functional and professional.
