@@ -31,7 +31,7 @@ Improve your bot's functionality without programming
 ## 🚀 Why our project?
 <div align="center">
   
-| 💡 For beginners	| 🔧 For experts |
-| ------------- | ------------- |
-| Simple instructions | Advanced Features |
+| 💡 For beginners	| 🔧 For experts | 🏆 Premium quality |
+| ------------- | ------------- | ------------- |
+| Simple instructions | Advanced Features | Tested code |
 </div>
