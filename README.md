@@ -2,7 +2,7 @@
 
 <div align="center">
 
-Профессиональные команды для визуального конструктора ботов Discord
-Улучшите функциональность вашего бота без программирования
+Professional commands for the Discord bot visual builder
+Improve your bot's functionality without programming
 
 </div>
