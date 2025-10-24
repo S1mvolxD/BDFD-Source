@@ -28,3 +28,9 @@ Improve your bot's functionality without programming
 - 👑 Server administrators - Who is looking for ready-made solutions for moderation or other things
 - 🎮 Game Developers - Who Creates Game Bots
 
+## 🚀 Why our project?
+
+<div align="center">
+| 💡 Для новичков	| 🔧 Для экспертов	| 🏆 Премиум качество  |
+| Простые инструкции |	Расширенные функции	| Протестированный код  |
+</div>
