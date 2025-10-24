@@ -1,4 +1,4 @@
-# 🎉 Welcome to the collection of commands for Bot Designer for Discord!
+## 🎉 Welcome to the collection of commands for Bot Designer for Discord!
 
 <div align="center">
 
