@@ -36,9 +36,15 @@ Improve your bot's functionality without programming
 | Simple instructions | Advanced Features | Tested code |
 </div>
 
-✨ Advantages of our collection:
+### ✨ Advantages of our collection:
 - ✅ Ready-made solutions - Copy and use immediately
 - ✅ Detailed comments - Understand how each command works
 - ✅ Regular updates - Always relevant features
 - ✅ Optimization - Maximum performance
 - ✅ Security - Proven and secure code
+
+## 📊 What's inside?
+```
+🎯 Moderation:   1+ Commands
+🆕 Updates:  Weekly
+```
